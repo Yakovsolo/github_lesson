@@ -16,3 +16,4 @@ def hello(txt:str)-> str:
 
 if __name__=="__main__":
     print(hello("Hello"))
+    print(div(10,5))
